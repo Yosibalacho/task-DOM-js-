@@ -10,3 +10,11 @@
 //   name1.innerText = prompt("Enter your name");
 // }
 // nameFromUser();
+// function numAndColor() {
+//   var numberOf = +prompt("Enter number");
+//   for (var i = 0; i < numberOf; i++) {
+//     var color = prompt("Enter some color");
+//     document.write("<span>" + color + "</span>"+"<br>");
+//   }
+// }
+// numAndColor();
